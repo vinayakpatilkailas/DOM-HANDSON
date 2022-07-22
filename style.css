@@ -1,0 +1,11 @@
+.flexcontainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.box{
+ height:200px ;
+ width:150px ;
+ background-color: aqua;
+ margin: 30px;
+}
